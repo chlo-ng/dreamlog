@@ -1,0 +1,17 @@
+.representation {
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    height: 100vh;
+}
+
+.representation img {
+    width: 65%;
+}
+
+.representation .column {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}

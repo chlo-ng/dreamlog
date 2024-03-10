@@ -1,0 +1,37 @@
+
+
+h3 {
+   margin-left: 2%;
+}
+
+.columns {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 1em;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    width: 33.33%;
+    justify-content: center;
+    text-align: center;
+}
+
+.columns h3 {
+    margin: .1em;
+    width: max-content;
+    align-self: center;
+}
+
+.columns p {
+    margin: 0;
+    align-self: center;
+}
+
+.dream-legend {
+    color: #91b8e1;
+    font-weight: bold;
+    margin-top: .1em;
+}
