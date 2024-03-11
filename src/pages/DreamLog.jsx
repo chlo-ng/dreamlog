@@ -104,7 +104,7 @@ function DreamLog() {
       <>
         <div style={{ width: '100vw', height: '100vh' }} className='dreamlog'>
           <h1> <a href='/' style={{ textDecoration: 'none', color: 'black', marginLeft: '.5em' }} className='fadeIn'>dream log</a> </h1>
-          <h3> <a href='/project-description' style={{ textDecoration: 'none', color: 'black', marginLeft: '.5em' }} className='fadeIn'>ProjectDescription</a> </h3>
+          <h3> <a href='/project-description' style={{ textDecoration: 'none', color: 'black', marginLeft: '.5em',  textDecoration: 'underline' }} className='fadeIn'>Project Description</a> </h3>
           
           <div className='columns'
             ref={columnsRef}

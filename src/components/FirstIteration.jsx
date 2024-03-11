@@ -27,7 +27,8 @@ function FirstIteration() {
           <h3> second iteration </h3>
           <div className="column">
             <p> a <a href="/second-iteration">webpage</a> with side scrolling, telling a story of my life in dreams and clouds. </p>
-            <p> however, due to time constraints and also a rough week, it has been difficult to code the webpage with satisfying results. </p>
+            <p> however, due to time constraints and also a rough week, it has been difficult to code the webpage with satisfying results. 
+               <br /> and so, i decided to combine the first two iterations instead. here is the <a href="/"> final webpage</a>. </p>
           </div>
         </div>
       </>
