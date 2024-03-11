@@ -21,14 +21,16 @@ function FirstIteration() {
           <h3> first iteration </h3>
           <div className="column">
             <img src={ twentytwenty } style={{ width: '55%' }}/>
-            <p> representation description, life description </p>
+            <p> i had always took notes on my dreams, i have notes that dated back to mid 2020, when covid first started.
+                <br /> the original plan was to display a collage of these dreams and represent them with clouds, as seen on the left. </p>
           </div>
 
           <h3> second iteration </h3>
           <div className="column">
             <p> a <a href="/second-iteration">webpage</a> with side scrolling, telling a story of my life in dreams and clouds. </p>
             <p> however, due to time constraints and also a rough week, it has been difficult to code the webpage with satisfying results. 
-               <br /> and so, i decided to combine the first two iterations instead. here is the <a href="/"> final webpage</a>. </p>
+               <br /> and so, i decided to combine the first two iterations instead, as well as provide a short description of what each year was like. 
+               <br /> here is the <a href="/"> final webpage</a>. </p>
           </div>
         </div>
       </>
