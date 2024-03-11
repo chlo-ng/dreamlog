@@ -8,7 +8,7 @@ function ProjectDescription() {
 
   return (
     <>
-      <h1> <a href='/' style={{ textDecoration: 'none', color: 'black' }}>dream log</a> </h1>
+      <h1>dream log</h1>
       <p> <i> For this project, I chose to represent my dreams through clouds, 
                 which will eventually make up a beautiful sky 
                 that tells a story about my dreams. </i> </p>

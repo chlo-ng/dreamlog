@@ -12,7 +12,7 @@ function CloudDescriptions() {
   
     return (
       <>
-        <div style={{ width: '100vw', height: 'max-content'}}>
+        <div style={{ width: '100vw', height: 'max-content', paddingLeft: '.5em'}}>
             <h3> cloud descriptions. </h3>
             <p> Clouds come in many different forms and shapes. So do dreams! 
                 <br /> I looked into the most common clouds and what weather state they bring or represent,

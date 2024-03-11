@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Routes, Route  } from 'react-router-dom'
 // pages
 import ProjectDescription from './pages/ProjectDescription'
 import DreamLog from './pages/DreamLog'
+import Representation from './pages/Representation'
 
 function App() {
 
@@ -12,8 +13,9 @@ function App() {
     <Router>
       <div>
         <Routes>
-          <Route path="/" element={<DreamLog />} />
-          <Route path="/project-description" index element={<ProjectDescription />} />
+          <Route path="/" element={<Representation />} />
+          <Route path="/second-iteration" element={<DreamLog />} />
+          <Route path="/project-description" element={<ProjectDescription />} />
         </Routes>
       </div>
     </Router>
